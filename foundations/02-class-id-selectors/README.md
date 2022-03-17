@@ -24,4 +24,4 @@ Quick tip: in VS Code, you can change which format colors are displayed in RGB, 
 - Do the even numbered `div` elements have unique IDs?
 - Does the Number 3 element have multiple classes?
 
-## Completed
+## COMPLETED
