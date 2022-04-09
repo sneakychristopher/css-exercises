@@ -36,7 +36,7 @@ a {
 ul{
   display: flex;
   margin: 0px;
-  /* padding-left: 0px; */
+  /* padding-left: 0px; */  /* <-- my solution */
   padding: 0px;
   gap: 5px;
 }
